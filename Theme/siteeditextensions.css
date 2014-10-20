@@ -1,0 +1,13 @@
+﻿#PublishContentBtn .image
+{
+	background-image: url({ThemePath}Images/publish.32.png);
+}
+.ribbontoolbar.minimized #PublishContentBtn .image
+{
+	background-image: url({ThemePath}Images/publish.16.png);
+}
+
+#PublishContentBtn .text
+{
+	max-width:60px;
+}
